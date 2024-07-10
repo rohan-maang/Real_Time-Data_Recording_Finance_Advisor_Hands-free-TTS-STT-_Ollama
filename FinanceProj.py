@@ -13,7 +13,7 @@ from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QPushButton, QTe
 from PyQt5.QtCore import QThread, pyqtSignal, QTimer, Qt
 from PyQt5.QtGui import QTextCursor, QPainter, QColor, QFont
 
-api_key = "cd9a77d105ad4036b017b090cd7df9d1"
+api_key = "YOUR-API-KEY"
 aai.settings.api_key = api_key
 transcriber = aai.Transcriber()
 
