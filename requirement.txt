@@ -1,0 +1,14 @@
+import sys
+import os
+import pandas as pd
+import ollama
+import pyaudio
+import audioop
+import wave
+import assemblyai as aai
+import numpy as np
+import subprocess
+import queue 
+import PyQt5.QtWidgets
+import PyQt5.QtCore
+import PyQt5.QtGui 
