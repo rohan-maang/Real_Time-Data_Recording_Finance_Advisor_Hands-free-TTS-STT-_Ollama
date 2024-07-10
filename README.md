@@ -2,8 +2,11 @@
 # Finance Advisor Application
 
 ## Overview
+This project is a combined skill representation of data science (data handling, processing etc.), AI handling i.e. working with the model and bending it in a way to work the way the project requires.
 
 The Finance Advisor Application is a GUI-based tool designed to interactively guide users through their financial planning and investment decisions. The application leverages various libraries and APIs for audio processing, speech-to-text transcription, and natural language processing.
+
+It is a totally hands-free experience, the user does not have to type anything, and the user's speech will be transcribed using AssemblyAI's API key. The responses by the model will also be spoken out.  
 
 ## Features
 
